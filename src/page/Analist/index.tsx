@@ -1,0 +1,1 @@
+export const AnalistPage = (): JSX.Element => <div>Аналитик</div>;

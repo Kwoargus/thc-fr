@@ -1,0 +1,1 @@
+export const BackendPage = (): JSX.Element => <div>Бэкенд</div>;
